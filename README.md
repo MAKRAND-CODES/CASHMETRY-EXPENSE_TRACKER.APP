@@ -30,7 +30,7 @@ HTML • CSS • JavaScript • Chart.js • jsPDF • SheetJS • LocalStorage
 
 ## 🌐 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/cashmetry-expense-app
+👉  https://makrand-codes.github.io/CASHMETRY-EXPENSE_TRACKER.APP/
 
 ## 👨‍💻 Developer
 
